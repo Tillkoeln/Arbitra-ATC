@@ -22,7 +22,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Arbitra cannot be compiled without assertions."
+# error "erexcoin cannot be compiled without assertions."
 #endif
 
 //
@@ -76,7 +76,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Arbitra Signed Message:\n";
+const string strMessageMagic = "erexcoin Signed Message:\n";
 
 //////////////////////////////////////////////////////////////////////////////
 //
@@ -990,15 +990,15 @@ static CBigNum GetProofOfStakeLimit(int nHeight)
 // miner's coin base reward
 int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
 {
-    int64_t nSubsidy = 10 * COIN;
+    int64_t nSubsidy = 2 * COIN;
  
     if(pindexBest->nHeight == 1)
     {
-        nSubsidy = 115000000 * COIN; // Premine 115M
+        nSubsidy = 10000000 * COIN; // Premine 10M
     }
         else
     {
-        nSubsidy = 10 * COIN;
+        nSubsidy = 2 * COIN;
     }
 
     LogPrint("creation", "GetProofOfWorkReward() : create=%s nSubsidy=%d\n", FormatMoney(nSubsidy), nSubsidy);
@@ -1014,17 +1014,13 @@ int64_t GetProofOfStakeReward(int nHeight, int64_t nCoinAge, int64_t nFees)
 	int64_t nRewardCoinYear = COIN_YEAR_REWARD; //1% reward up to end
 	
 	if(pindexBest->nHeight < 86400)
-    	nRewardCoinYear = 100 * COIN_YEAR_REWARD; //100%
+    	nRewardCoinYear = 20 * COIN_YEAR_REWARD; //20%
     else if(pindexBest->nHeight < 172800)
-    	nRewardCoinYear = 80 * COIN_YEAR_REWARD; //80%
+    	nRewardCoinYear = 15 * COIN_YEAR_REWARD; //15%
     else if(pindexBest->nHeight < 259200)
-    	nRewardCoinYear = 60 * COIN_YEAR_REWARD; //60%
-	else if(pindexBest->nHeight < 345600)
-    	nRewardCoinYear = 40 * COIN_YEAR_REWARD; //40%
-    else if(pindexBest->nHeight < 432000)
-        nRewardCoinYear = 20 * COIN_YEAR_REWARD; //20%
+    	nRewardCoinYear = 10 * COIN_YEAR_REWARD; //10%
 	else
-		nRewardCoinYear = 10 * COIN_YEAR_REWARD; //10%
+		nRewardCoinYear = 5 * COIN_YEAR_REWARD; //5%
  
  
     /*if(pindexBest->nHeight < 100)
@@ -1091,7 +1087,7 @@ const CBlockIndex* GetLastBlockIndex(const CBlockIndex* pindex, bool fProofOfSta
     return pindex;
 }
 
-int nTargetSpacing = 180; //3min
+int nTargetSpacing = 60; // 60 seconds
 
 unsigned int GetNextTargetRequired(const CBlockIndex* pindexLast, bool fProofOfStake)
 {
@@ -2369,7 +2365,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
 }
 
 #ifdef ENABLE_WALLET
-// arbitra: attempt to generate suitable proof-of-stake
+// erexcoin: attempt to generate suitable proof-of-stake
 bool CBlock::SignBlock(CWallet& wallet, int64_t nFees)
 {
     // if we are trying to sign
@@ -2721,7 +2717,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("arbitra-loadblk");
+    RenameThread("erexcoin-loadblk");
 
     CImportingNow imp;
 

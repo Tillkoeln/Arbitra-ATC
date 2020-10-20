@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Arbitra</source>
-        <translation>Tentang Arbitra</translation>
+        <source>About erexcoin</source>
+        <translation>Tentang erexcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Arbitra&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Arbitra&lt;/b&gt; versi</translation>
+        <source>&lt;b&gt;erexcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;erexcoin&lt;/b&gt; versi</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Arbitra developers</source>
+Copyright © 2014 The erexcoin developers</source>
         <translation>Copyright © 2009-2014 para pengembang Bitcoin
 Copyright © 2012-2014 para pengembang NovaCoin
-Copyright © 2014 para pengembang Arbitra</translation>
+Copyright © 2014 para pengembang erexcoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Arbitra addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ini adalah alamat Arbitra Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
+        <source>These are your erexcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ini adalah alamat erexcoin Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Arbitra address</source>
-        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress Arbitra</translation>
+        <source>Sign a message to prove you own a erexcoin address</source>
+        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress erexcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,7 +90,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Arbitra address</source>
+        <source>Verify a message to ensure it was signed with a specified erexcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Arbitra will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Arbitra akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
+        <source>erexcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>erexcoin akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Arbitra</source>
-        <translation>Tunjukkan informasi tentang Arbitra</translation>
+        <source>Show information about erexcoin</source>
+        <translation>Tunjukkan informasi tentang erexcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Arbitra address</source>
-        <translation>Kirim koin ke alamat Arbitra</translation>
+        <source>Send coins to a erexcoin address</source>
+        <translation>Kirim koin ke alamat erexcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Arbitra</source>
-        <translation>Memodifikasi opsi aturan untuk Arbitra</translation>
+        <source>Modify configuration options for erexcoin</source>
+        <translation>Memodifikasi opsi aturan untuk erexcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Arbitra</source>
-        <translation>Arbitra (CoinHitam)</translation>
+        <source>erexcoin</source>
+        <translation>erexcoin (CoinHitam)</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Arbitra</source>
-        <translation>&amp;Tentang Arbitra</translation>
+        <source>&amp;About erexcoin</source>
+        <translation>&amp;Tentang erexcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Arbitra client</source>
-        <translation>Klien Arbitra</translation>
+        <source>erexcoin client</source>
+        <translation>Klien erexcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Arbitra network</source>
+        <source>%n active connection(s) to erexcoin network</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
@@ -600,7 +600,7 @@ Alamat: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Arbitra address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid erexcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -723,7 +723,7 @@ Alamat: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Arbitra can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. erexcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1043,7 +1043,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Arbitra address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid erexcoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Arbitra-Qt</source>
-        <translation>Arbitra-Qt</translation>
+        <source>erexcoin-Qt</source>
+        <translation>erexcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,12 +1135,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Arbitra after logging in to the system.</source>
+        <source>Automatically start erexcoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Arbitra on system login</source>
+        <source>&amp;Start erexcoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1150,7 +1150,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Arbitra client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the erexcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Arbitra network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the erexcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1225,7 +1225,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Arbitra.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting erexcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1292,7 +1292,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Arbitra.</source>
+        <source>This setting will take effect after restarting erexcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1311,7 +1311,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arbitra network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the erexcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1385,7 +1385,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start arbitra: click-to-pay handler</source>
+        <source>Cannot start erexcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1553,7 +1553,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Arbitra-Qt help message to get a list with possible Arbitra command-line options.</source>
+        <source>Show the erexcoin-Qt help message to get a list with possible erexcoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1573,13 +1573,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Arbitra - Debug window</source>
+        <source>erexcoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Arbitra Core</source>
-        <translation>Inti Arbitra</translation>
+        <source>erexcoin Core</source>
+        <translation>Inti erexcoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1588,7 +1588,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Arbitra debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the erexcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1598,7 +1598,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Arbitra RPC console.</source>
+        <source>Welcome to the erexcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1779,7 +1779,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Arbitra address</source>
+        <source>WARNING: Invalid erexcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1953,7 +1953,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2014,7 +2014,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Arbitra address</source>
+        <source>Sign the message to prove you own this erexcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2046,7 +2046,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Arbitra address</source>
+        <source>Verify the message to ensure it was signed with the specified erexcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2057,7 +2057,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2067,7 +2067,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Arbitra signature</source>
+        <source>Enter erexcoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2646,7 +2646,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Arbitra version</source>
+        <source>erexcoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2656,7 +2656,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or arbitrad</source>
+        <source>Send command to -server or erexcoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2676,12 +2676,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: arbitra.conf)</source>
+        <source>Specify configuration file (default: erexcoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: arbitrad.pid)</source>
+        <source>Specify pid file (default: erexcoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2705,7 +2705,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;erexcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2811,7 +2811,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Arbitra will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong erexcoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3117,7 +3117,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Arbitra is shutting down.</source>
+        <source>Initialization sanity check failed. erexcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3177,12 +3177,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Arbitra</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of erexcoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Arbitra to complete</source>
+        <source>Wallet needed to be rewritten: restart erexcoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3242,7 +3242,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Arbitra is probably already running.</source>
+        <source>Unable to bind to %s on this computer. erexcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3282,7 +3282,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Arbitra is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. erexcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

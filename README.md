@@ -1,9 +1,9 @@
-# Arbitra-ATC
+# erexcoin-EREX
 SPECIFICATION
 
-Name: Arbitra
+Name: erexcoin
 
-Symbol: ATC
+Symbol: EREX
 
 Algo: X11
 
@@ -42,7 +42,7 @@ from block 432001-~~~ = 10% /per year
 # About:
 
 
-ArbiTraCoin works with a highly complex software developed especially for this coin which has a simple task. It looks for the current price of a coin (for example Bitcoin) on a stock exchange, where it is offered very cheap. At the same time, the software is looking for the stock market on which it is being offered the most expensive. Through a specially developed algorithm and the ability to serve many trades and lots of volume at the same time, this program is able to sell more expensive within seconds than the coin was purchased. With this technique, called arbitrage trading, it is possible to generate several percentages per day.
+ArbiTraCoin works with a highly complex software developed especially for this coin which has a simple task. It looks for the current price of a coin (for example Bitcoin) on a stock exchange, where it is offered very cheap. At the same time, the software is looking for the stock market on which it is being offered the most expensive. Through a specially developed algorithm and the ability to serve many trades and lots of volume at the same time, this program is able to sell more expensive within seconds than the coin was purchased. With this technique, called erexcoinge trading, it is possible to generate several percentages per day.
 
 
-  https://arbitracoin.com/
+  https://erexcoincoin.com/

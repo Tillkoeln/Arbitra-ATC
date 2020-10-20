@@ -920,7 +920,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "arbitra";
+    const char* pszModule = "erexcoin";
 #endif
     if (pex)
         return strprintf(
@@ -950,13 +950,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Arbitra
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Arbitra
-    // Mac: ~/Library/Application Support/Arbitra
-    // Unix: ~/.arbitra
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\erexcoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\erexcoin
+    // Mac: ~/Library/Application Support/erexcoin
+    // Unix: ~/.erexcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Arbitra";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "erexcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -968,10 +968,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Arbitra";
+    return pathRet / "erexcoin";
 #else
     // Unix
-    return pathRet / ".arbitra";
+    return pathRet / ".erexcoin";
 #endif
 #endif
 }
@@ -1020,7 +1020,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "arbitra.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "erexcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1053,7 +1053,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "arbitrad.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "erexcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

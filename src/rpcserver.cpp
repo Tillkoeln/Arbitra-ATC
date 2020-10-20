@@ -202,10 +202,10 @@ Value stop(const Array& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "Stop Arbitra server.");
+            "Stop erexcoin server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Arbitra server stopping";
+    return "erexcoin server stopping";
 }
 
 
@@ -525,7 +525,7 @@ void StartRPCThreads()
     {
         unsigned char rand_pwd[32];
         RAND_bytes(rand_pwd, 32);
-        string strWhatAmI = "To use arbitrad";
+        string strWhatAmI = "To use erexcoind";
         if (mapArgs.count("-server"))
             strWhatAmI = strprintf(_("To use the %s option"), "\"-server\"");
         else if (mapArgs.count("-daemon"))
@@ -540,7 +540,7 @@ void StartRPCThreads()
               "The username and password MUST NOT be the same.\n"
               "If the file does not exist, create it with owner-readable-only file permissions.\n"
               "It is also recommended to set alertnotify so you are notified of problems;\n"
-              "for example: alertnotify=echo %%s | mail -s \"Arbitra Alert\" admin@foo.com\n"),
+              "for example: alertnotify=echo %%s | mail -s \"erexcoin Alert\" admin@foo.com\n"),
                 strWhatAmI,
                 GetConfigFile().string(),
                 EncodeBase58(&rand_pwd[0],&rand_pwd[0]+32)),

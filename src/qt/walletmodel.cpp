@@ -404,7 +404,7 @@ WalletModel::UnlockContext::~UnlockContext()
 
 void WalletModel::UnlockContext::CopyFrom(const UnlockContext& rhs)
 {
-    // Arbitra context; old object no longer relocks wallet
+    // erexcoin context; old object no longer relocks wallet
     *this = rhs;
     rhs.relock = false;
 }

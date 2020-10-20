@@ -67,7 +67,7 @@ struct MessageTableEntry
     }
 };
 
-/** Interface to Arbitra Secure Messaging from Qt view code. */
+/** Interface to erexcoin Secure Messaging from Qt view code. */
 class MessageModel : public QAbstractTableModel
 {
     Q_OBJECT

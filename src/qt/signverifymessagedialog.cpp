@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter Arbitra signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter erexcoin signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

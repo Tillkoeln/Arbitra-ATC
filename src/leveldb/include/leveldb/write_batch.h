@@ -18,8 +18,8 @@
 // non-const method, all threads accessing the same WriteBatch must use
 // external synchronization.
 
-#ifndef STORAGE_LEVELDB_INCLUDE_WRITE_BATCH_H_
-#define STORAGE_LEVELDB_INCLUDE_WRITE_BATCH_H_
+#ifndef STORAGE_LEVELDB_INCLUDE_WRITE_BEREXH_H_
+#define STORAGE_LEVELDB_INCLUDE_WRITE_BEREXH_H_
 
 #include <string>
 #include "leveldb/status.h"
@@ -61,4 +61,4 @@ class WriteBatch {
 
 }  // namespace leveldb
 
-#endif  // STORAGE_LEVELDB_INCLUDE_WRITE_BATCH_H_
+#endif  // STORAGE_LEVELDB_INCLUDE_WRITE_BEREXH_H_

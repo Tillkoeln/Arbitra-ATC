@@ -228,11 +228,11 @@ typedef struct {size_t v;} _PACKED size_t_S;
 #define HASHTABLESIZE (1 << MEMORY_USAGE)
 #define HASHNBCELLS4  (1 << LZ4_HASHLOG)
 
-#define MINMATCH 4
+#define MINMEREXH 4
 
 #define COPYLENGTH 8
 #define LASTLITERALS 5
-#define MFLIMIT (COPYLENGTH+MINMATCH)
+#define MFLIMIT (COPYLENGTH+MINMEREXH)
 static const int LZ4_minLength = (MFLIMIT+1);
 
 #define KB *(1U<<10)
@@ -374,9 +374,9 @@ int LZ4_compressBound(int isize)  { return LZ4_COMPRESSBOUND(isize); }
 FORCE_INLINE int LZ4_hashSequence(U32 sequence, tableType_t tableType)
 {
     if (tableType == byU16)
-        return (((sequence) * 2654435761U) >> ((MINMATCH*8)-(LZ4_HASHLOG+1)));
+        return (((sequence) * 2654435761U) >> ((MINMEREXH*8)-(LZ4_HASHLOG+1)));
     else
-        return (((sequence) * 2654435761U) >> ((MINMATCH*8)-LZ4_HASHLOG));
+        return (((sequence) * 2654435761U) >> ((MINMEREXH*8)-LZ4_HASHLOG));
 }
 
 FORCE_INLINE int LZ4_hashPosition(const BYTE* p, tableType_t tableType) { return LZ4_hashSequence(A32(p), tableType); }
@@ -495,7 +495,7 @@ _next_match:
         LZ4_WRITE_LITTLEENDIAN_16(op,(U16)(ip-ref));
 
         /* Start Counting */
-        ip+=MINMATCH; ref+=MINMATCH;    /* MinMatch already verified */
+        ip+=MINMEREXH; ref+=MINMEREXH;    /* MinMatch already verified */
         anchor = ip;
         while (likely(ip<matchlimit-(STEPSIZE-1)))
         {

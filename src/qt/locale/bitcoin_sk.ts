@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Arbitra</source>
-        <translation>O Arbitra</translation>
+        <source>About erexcoin</source>
+        <translation>O erexcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Arbitra&lt;/b&gt; version</source>
-        <translation>Verzia &lt;b&gt;Arbitra&lt;/b&gt;</translation>
+        <source>&lt;b&gt;erexcoin&lt;/b&gt; version</source>
+        <translation>Verzia &lt;b&gt;erexcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Arbitra developers</source>
+Copyright © 2014 The erexcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Arbitra developers</translation>
+Copyright © 2014 The erexcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Arbitra addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Arbitra adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your erexcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše erexcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Arbitra address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Arbitra adresu</translation>
+        <source>Sign a message to prove you own a erexcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto erexcoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Arbitra address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Arbitra adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified erexcoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou erexcoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+82"/>
-        <source>Arbitra will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Arbitra sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
+        <source>erexcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>erexcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Arbitra</source>
-        <translation>Zobraziť informácie o Arbitra</translation>
+        <source>Show information about erexcoin</source>
+        <translation>Zobraziť informácie o erexcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Arbitra address</source>
-        <translation>Poslať mince na Arbitra adresu</translation>
+        <source>Send coins to a erexcoin address</source>
+        <translation>Poslať mince na erexcoin adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Arbitra</source>
-        <translation>Upraviť možnosti konfigurácie pre Arbitra</translation>
+        <source>Modify configuration options for erexcoin</source>
+        <translation>Upraviť možnosti konfigurácie pre erexcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Arbitra</source>
-        <translation>Arbitra</translation>
+        <source>erexcoin</source>
+        <translation>erexcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Arbitra</source>
-        <translation>&amp;O Arbitra</translation>
+        <source>&amp;About erexcoin</source>
+        <translation>&amp;O erexcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Arbitra client</source>
-        <translation>Arbitra klient</translation>
+        <source>erexcoin client</source>
+        <translation>erexcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Arbitra network</source>
-        <translation><numerusform>%n aktívne spojenie s Arbitra sieťov</numerusform><numerusform>%n aktívnych spojení s Arbitra sieťov</numerusform><numerusform>%n aktívnych spojení s Arbitra sieťou</numerusform></translation>
+        <source>%n active connection(s) to erexcoin network</source>
+        <translation><numerusform>%n aktívne spojenie s erexcoin sieťov</numerusform><numerusform>%n aktívnych spojení s erexcoin sieťov</numerusform><numerusform>%n aktívnych spojení s erexcoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -604,8 +604,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Arbitra address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Arbitra adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid erexcoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou erexcoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -727,8 +727,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Arbitra can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Arbitra už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. erexcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. erexcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Arbitra address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Arbitra adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid erexcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou erexcoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Arbitra-Qt</source>
-        <translation>Arbitra-Qt</translation>
+        <source>erexcoin-Qt</source>
+        <translation>erexcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Arbitra after logging in to the system.</source>
-        <translation>Automaticky spustiť Arbitra po prihlásení sa do systému.</translation>
+        <source>Automatically start erexcoin after logging in to the system.</source>
+        <translation>Automaticky spustiť erexcoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Arbitra on system login</source>
-        <translation>&amp;Spustiť Arbitra pri prihlásení do systému</translation>
+        <source>&amp;Start erexcoin on system login</source>
+        <translation>&amp;Spustiť erexcoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1168,8 +1168,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Arbitra client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Arbitra na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the erexcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta erexcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1198,7 +1198,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Arbitra network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the erexcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1243,8 +1243,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Arbitra.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Arbitra.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting erexcoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní erexcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1310,8 +1310,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Arbitra.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Arbitra.</translation>
+        <source>This setting will take effect after restarting erexcoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní erexcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1329,8 +1329,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arbitra network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Arbitra po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the erexcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou erexcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1403,8 +1403,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start arbitra: click-to-pay handler</source>
-        <translation>Arbitra sa nedá spustiť: click-to-pay handler</translation>
+        <source>Cannot start erexcoin: click-to-pay handler</source>
+        <translation>erexcoin sa nedá spustiť: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1571,8 +1571,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Arbitra-Qt help message to get a list with possible Arbitra command-line options.</source>
-        <translation>Zobraziť Arbitra-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Arbitra.</translation>
+        <source>Show the erexcoin-Qt help message to get a list with possible erexcoin command-line options.</source>
+        <translation>Zobraziť erexcoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku erexcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1591,13 +1591,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Arbitra - Debug window</source>
-        <translation>Arbitra - Ladiace okno</translation>
+        <source>erexcoin - Debug window</source>
+        <translation>erexcoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Arbitra Core</source>
-        <translation>Jadro Arbitra</translation>
+        <source>erexcoin Core</source>
+        <translation>Jadro erexcoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1606,8 +1606,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Arbitra debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Arbitra súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the erexcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte erexcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1616,8 +1616,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Arbitra RPC console.</source>
-        <translation>Vitajte v konzole Arbitra RPC.</translation>
+        <source>Welcome to the erexcoin RPC console.</source>
+        <translation>Vitajte v konzole erexcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1797,8 +1797,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Zadajte Arbitra adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Zadajte erexcoin adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1897,8 +1897,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Arbitra address</source>
-        <translation>UPOZORNENIE: Neplatná Arbitra adresa</translation>
+        <source>WARNING: Invalid erexcoin address</source>
+        <translation>UPOZORNENIE: Neplatná erexcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1971,8 +1971,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Zadajte Arbitra adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Zadajte erexcoin adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
 </context>
 <context>
@@ -2032,8 +2032,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Arbitra address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Arbitra adresu</translation>
+        <source>Sign the message to prove you own this erexcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto erexcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2064,8 +2064,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Arbitra address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Arbitra adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified erexcoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou erexcoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2075,8 +2075,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Zadajte Arbitra adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Zadajte erexcoin adresu (napr. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2085,8 +2085,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Arbitra signature</source>
-        <translation>Zadajte Arbitra podpis</translation>
+        <source>Enter erexcoin signature</source>
+        <translation>Zadajte erexcoin podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2664,8 +2664,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Arbitra version</source>
-        <translation>Arbitra verzia</translation>
+        <source>erexcoin version</source>
+        <translation>erexcoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or arbitrad</source>
-        <translation>Pošli príkaz na -server alebo arbitrad</translation>
+        <source>Send command to -server or erexcoind</source>
+        <translation>Pošli príkaz na -server alebo erexcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2694,13 +2694,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: arbitra.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: arbitra.conf)</translation>
+        <source>Specify configuration file (default: erexcoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: erexcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: arbitrad.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: arbitrad.pid)</translation>
+        <source>Specify pid file (default: erexcoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: erexcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2723,7 +2723,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;erexcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
 %s
@@ -2734,7 +2734,7 @@ rpcpassword=%s
 Užívateľské meno a heslo NESMIE byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s právami &quot;môže čítať iba vlastník&quot;.
 Odporúča sa tiež nastaviť &quot;alertnotify&quot;, takže budete upozornení na problémy,
-napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin@foo.com
+napríklad: alertnotify=echo %%s | mail -s &quot;erexcoin upozornenie&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2839,8 +2839,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Arbitra will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Arbitra nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong erexcoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny erexcoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3146,8 +3146,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Arbitra is shutting down.</source>
-        <translation>Úvodné kontrolné testy zlyhali. Arbitra sa teraz zatvori.</translation>
+        <source>Initialization sanity check failed. erexcoin is shutting down.</source>
+        <translation>Úvodné kontrolné testy zlyhali. erexcoin sa teraz zatvori.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -3206,13 +3206,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Arbitra</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Arbitra</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of erexcoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu erexcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Arbitra to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Arbitra k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart erexcoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte erexcoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3271,8 +3271,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Arbitra is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Arbitra je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. erexcoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. erexcoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-102"/>
@@ -3311,8 +3311,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Arbitra upozornenie&quot; admin
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Arbitra is probably already running.</source>
-        <translation>Nedá sa zamknúť dátová zložka %s. Arbitra je pravdepodobne už spustený</translation>
+        <source>Cannot obtain a lock on data directory %s. erexcoin is probably already running.</source>
+        <translation>Nedá sa zamknúť dátová zložka %s. erexcoin je pravdepodobne už spustený</translation>
     </message>
     <message>
         <location line="+4"/>

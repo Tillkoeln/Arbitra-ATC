@@ -92,7 +92,7 @@
  * octets.
  *
  * Nevertheless, for some of the implemented hash functions, an extra
- * API has been added, which allows the input of arbitrary sequences of
+ * API has been added, which allows the input of erexcoinry sequences of
  * bits: when the computation is about to be closed, 1 to 7 extra bits
  * can be added. The functions for which this API is implemented include
  * the SHA-2 functions and all SHA-3 candidates.
@@ -174,7 +174,7 @@
  * to hash, and the number of data bytes to hash. The context is updated
  * with the new data.
  *
- * Data can be input in one or several calls, with arbitrary input lengths.
+ * Data can be input in one or several calls, with erexcoinry input lengths.
  * However, it is best, performance wise, to input data by relatively big
  * chunks (say a few kilobytes), because this allows <code>sphlib</code> to
  * optimize things and avoid internal copying.

@@ -228,7 +228,7 @@ struct formatZeroIntegerWorkaround<T,true>
 };
 #endif // TINYFORMAT_OLD_LIBSTDCPLUSPLUS_WORKAROUND
 
-// Convert an arbitrary type to integer.  The version with convertible=false
+// Convert an erexcoinry type to integer.  The version with convertible=false
 // throws an error.
 template<typename T, bool convertible = is_convertible<T,int>::value>
 struct convertToInt

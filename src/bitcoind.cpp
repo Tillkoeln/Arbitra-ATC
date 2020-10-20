@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Arbitra version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("erexcoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  arbitrad [options]                     " + "\n" +
-                  "  arbitrad [options] <command> [params]  " + _("Send command to -server or arbitrad") + "\n" +
-                  "  arbitrad [options] help                " + _("List commands") + "\n" +
-                  "  arbitrad [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  erexcoind [options]                     " + "\n" +
+                  "  erexcoind [options] <command> [params]  " + _("Send command to -server or erexcoind") + "\n" +
+                  "  erexcoind [options] help                " + _("List commands") + "\n" +
+                  "  erexcoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "arbitra:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "erexcoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)

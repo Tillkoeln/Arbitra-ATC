@@ -64,14 +64,14 @@ void MakeSameSize(valtype& vch1, valtype& vch2)
 {
     // Lengthen the shorter one
     if (vch1.size() < vch2.size())
-        // PATCH:
+        // PEREXH:
         // +unsigned char msb = vch1[vch1.size()-1];
         // +vch1[vch1.size()-1] &= 0x7f;
         //  vch1.resize(vch2.size(), 0);
         // +vch1[vch1.size()-1] = msb;
         vch1.resize(vch2.size(), 0);
     if (vch2.size() < vch1.size())
-        // PATCH:
+        // PEREXH:
         // +unsigned char msb = vch2[vch2.size()-1];
         // +vch2[vch2.size()-1] &= 0x7f;
         //  vch2.resize(vch1.size(), 0);

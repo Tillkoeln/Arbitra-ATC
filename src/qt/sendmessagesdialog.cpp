@@ -34,7 +34,7 @@ SendMessagesDialog::SendMessagesDialog(Mode mode, Type type, QWidget *parent) :
 #if QT_VERSION >= 0x040700
      /* Do not move this to the XML file, Qt before 4.7 will choke on it */
     if(mode == SendMessagesDialog::Encrypted)
-        ui->addressFrom->setPlaceholderText(tr("Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
+        ui->addressFrom->setPlaceholderText(tr("Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)"));
  #endif
     addEntry();
 

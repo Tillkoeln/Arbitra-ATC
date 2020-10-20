@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Arbitra</source>
-        <translation>Tietoa Arbitraista</translation>
+        <source>About erexcoin</source>
+        <translation>Tietoa erexcoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Arbitra&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Arbitra&lt;/b&gt;-asiakasohjelman versio</translation>
+        <source>&lt;b&gt;erexcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;erexcoin&lt;/b&gt;-asiakasohjelman versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Arbitra developers</source>
+Copyright © 2014 The erexcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Arbitra developers</translation>
+Copyright © 2014 The erexcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Arbitra addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Arbitra-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your erexcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat erexcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -81,8 +81,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Arbitra address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Arbitra-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a erexcoin address</source>
+        <translation>Allekirjoita viesti osoittaaksesi erexcoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Arbitra address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Arbitra-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified erexcoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen erexcoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+82"/>
-        <source>Arbitra will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Arbitra-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>erexcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>erexcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -358,8 +358,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Arbitra</source>
-        <translation>Näytä tietoja Arbitraista</translation>
+        <source>Show information about erexcoin</source>
+        <translation>Näytä tietoja erexcoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -398,12 +398,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Arbitra address</source>
-        <translation>Lähetä kolikoita Arbitra-osoitteeseen</translation>
+        <source>Send coins to a erexcoin address</source>
+        <translation>Lähetä kolikoita erexcoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Arbitra</source>
+        <source>Modify configuration options for erexcoin</source>
         <translation>Mukauta asiakasohjelman asetuksia</translation>
     </message>
     <message>
@@ -444,8 +444,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Arbitra</source>
-        <translation>Arbitra</translation>
+        <source>erexcoin</source>
+        <translation>erexcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -454,8 +454,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Arbitra</source>
-        <translation>&amp;Tietoa Arbitraista</translation>
+        <source>&amp;About erexcoin</source>
+        <translation>&amp;Tietoa erexcoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -506,13 +506,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Arbitra client</source>
-        <translation>Arbitra-asiakasohjelma</translation>
+        <source>erexcoin client</source>
+        <translation>erexcoin-asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Arbitra network</source>
-        <translation><numerusform>%n aktiivinen yhteys Arbitra-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Arbitra-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to erexcoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys erexcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä erexcoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Arbitra address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Arbitra-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid erexcoin address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä erexcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Arbitra can no longer continue safely and will quit.</source>
-        <translation>Virhe kohdattu. Arbitra-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
+        <source>A fatal error occurred. erexcoin can no longer continue safely and will quit.</source>
+        <translation>Virhe kohdattu. erexcoin-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Arbitra address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Arbitra-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid erexcoin address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty erexcoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Arbitra-Qt</source>
-        <translation>Arbitra-Qt</translation>
+        <source>erexcoin-Qt</source>
+        <translation>erexcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Arbitra after logging in to the system.</source>
-        <translation>Käynnistä Arbitra-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start erexcoin after logging in to the system.</source>
+        <translation>Käynnistä erexcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Arbitra on system login</source>
-        <translation>%Käynnistä Arbitra-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start erexcoin on system login</source>
+        <translation>%Käynnistä erexcoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Arbitra client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Arbitra-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the erexcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa erexcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1199,7 +1199,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Arbitra network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the erexcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1244,8 +1244,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Arbitra.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Arbitra-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting erexcoin.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta erexcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1311,8 +1311,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Arbitra.</source>
-        <translation>Tämä asetus tulee voimaan vasta Arbitra-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting erexcoin.</source>
+        <translation>Tämä asetus tulee voimaan vasta erexcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1330,8 +1330,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Arbitra network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Arbitra-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the erexcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti erexcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1404,8 +1404,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start arbitra: click-to-pay handler</source>
-        <translation>Arbitra-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
+        <source>Cannot start erexcoin: click-to-pay handler</source>
+        <translation>erexcoin-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
     </message>
 </context>
 <context>
@@ -1572,8 +1572,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Arbitra-Qt help message to get a list with possible Arbitra command-line options.</source>
-        <translation>Näytä Arbitra-Qt:n avustusohje saadaksesi listan käytettävistä Arbitrain komentokehotteen määritteistä.</translation>
+        <source>Show the erexcoin-Qt help message to get a list with possible erexcoin command-line options.</source>
+        <translation>Näytä erexcoin-Qt:n avustusohje saadaksesi listan käytettävistä erexcoinin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1592,13 +1592,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Arbitra - Debug window</source>
-        <translation>Arbitra - Debug-ikkuna</translation>
+        <source>erexcoin - Debug window</source>
+        <translation>erexcoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Arbitra Core</source>
-        <translation>Arbitrain ydin</translation>
+        <source>erexcoin Core</source>
+        <translation>erexcoinin ydin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1607,8 +1607,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Arbitra debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Arbitra-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the erexcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa erexcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1617,8 +1617,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Arbitra RPC console.</source>
-        <translation>Tervetuloa Arbitrain RPC-konsoliin.</translation>
+        <source>Welcome to the erexcoin RPC console.</source>
+        <translation>Tervetuloa erexcoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1678,7 +1678,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Arbitraeja</translation>
+        <translation>Lähetä erexcoineja</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1798,8 +1798,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Syötä Arbitra-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Syötä erexcoin-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Arbitra address</source>
-        <translation>VAROITUS: Epäkelpo Arbitra-osoite</translation>
+        <source>WARNING: Invalid erexcoin address</source>
+        <translation>VAROITUS: Epäkelpo erexcoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1972,8 +1972,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Syötä Arbitra-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Syötä erexcoin-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
 </context>
 <context>
@@ -2033,8 +2033,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Arbitra address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Arbitra-osoitteen</translation>
+        <source>Sign the message to prove you own this erexcoin address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän erexcoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2065,8 +2065,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Arbitra address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Arbitra-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified erexcoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä erexcoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2076,8 +2076,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Arbitra address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
-        <translation>Syötä Arbitra-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
+        <source>Enter a erexcoin address (e.g. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</source>
+        <translation>Syötä erexcoin-osoite (esim. ANv78NgTSWBzsrdYu3N9zBgNw8JGKJf2GP)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2086,8 +2086,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Arbitra signature</source>
-        <translation>Syötä Arbitra-allekirjoitus</translation>
+        <source>Enter erexcoin signature</source>
+        <translation>Syötä erexcoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2665,8 +2665,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Arbitra version</source>
-        <translation>Arbitrain versio</translation>
+        <source>erexcoin version</source>
+        <translation>erexcoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or arbitrad</source>
-        <translation>Syötä komento kohteeseen -server tai arbitrad</translation>
+        <source>Send command to -server or erexcoind</source>
+        <translation>Syötä komento kohteeseen -server tai erexcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2695,13 +2695,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: arbitra.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: arbitra.conf)</translation>
+        <source>Specify configuration file (default: erexcoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: erexcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: arbitrad.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: arbitra.pid)</translation>
+        <source>Specify pid file (default: erexcoind.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: erexcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2724,7 +2724,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;erexcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
@@ -2732,7 +2732,7 @@ On suositeltavaa, että käytät seuraavaa arvottua salasanaa: rpcuser=atcrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa) Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Arbitra Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;erexcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2837,8 +2837,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Arbitra will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Arbitra ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong erexcoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, erexcoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3144,8 +3144,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Arbitra is shutting down.</source>
-        <translation>Käyttöönottotarkistus epäonnistui. Arbitra-asiakasohjelma suljetaan.</translation>
+        <source>Initialization sanity check failed. erexcoin is shutting down.</source>
+        <translation>Käyttöönottotarkistus epäonnistui. erexcoin-asiakasohjelma suljetaan.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -3204,13 +3204,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Arbitra</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Arbitra-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of erexcoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version erexcoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Arbitra to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Arbitra-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart erexcoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä erexcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3269,8 +3269,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Arbitra is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Arbitra-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. erexcoin is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. erexcoin-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-102"/>
@@ -3309,8 +3309,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Arbitra is probably already running.</source>
-        <translation>Lukkotiedostoa ei voida saada haltuun datahakemistossa %s. Arbitra on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. erexcoin is probably already running.</source>
+        <translation>Lukkotiedostoa ei voida saada haltuun datahakemistossa %s. erexcoin on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="+4"/>
